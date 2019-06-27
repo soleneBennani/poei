@@ -2,7 +2,7 @@ package bouton;
 
 import java.sql.Date;
 
-public class Actors {
+public class Actor {
 	private int actor_id;
 	private String first_name;
 	private String last_name;
